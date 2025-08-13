@@ -4,6 +4,6 @@ Rudimentary parser turning TeX-like syntax into a Plump DOM.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shinmera/plump-tex.git |
-| commit  | a254f9f                                       |
+| commit  | a63d9af                                       |
 | systems | plump-tex                                     |
 |---------+-----------------------------------------------|
