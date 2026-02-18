@@ -3,7 +3,7 @@
 Rudimentary parser turning TeX-like syntax into a Plump DOM.
 
 |---------+-----------------------------------------------|
-| source  | git:https://github.com/Shinmera/plump-tex.git |
-| commit  | a63d9af                                       |
+| source  | git:https://codeberg.org/shinmera/plump-tex.git |
+| commit  | 0000000                                       |
 | systems | plump-tex                                     |
 |---------+-----------------------------------------------|
